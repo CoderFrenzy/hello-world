@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+I am a human who writes programs.
